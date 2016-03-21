@@ -1,0 +1,2 @@
+# xbooth
+Simple Photobooth application
