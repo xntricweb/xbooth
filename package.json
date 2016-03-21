@@ -1,0 +1,23 @@
+{
+  "name": "xbooth",
+  "version": "1.0.0",
+  "description": "Photobooth application for home photobooths",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xntricweb/xbooth.git"
+  },
+  "keywords": [
+    "xntricwebs",
+    "photobooth"
+  ],
+  "author": "Jeremy Calloway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xntricweb/xbooth/issues"
+  },
+  "homepage": "https://github.com/xntricweb/xbooth#readme"
+}
