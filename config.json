@@ -1,0 +1,5 @@
+{
+  "port": 80,
+  "dcim-path": "d:\\booths\\test\\dcim",
+  "render-path": "d:\\booths\\test\\renders"
+}
